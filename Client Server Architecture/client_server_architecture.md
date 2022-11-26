@@ -7,7 +7,6 @@ Server :- Server can be hardware or a software
 -	Like MYSQL is database where we deploy our app or whatever..
 -	This is Backend part..
 
- 
 
 As we know how web works?
 
@@ -23,11 +22,11 @@ API:-
 -	While working with API they have some conventions like.. REST , GRPC, SOAP…
 -	REST is most used convention for API
 
-![Profile Page](https://github.com/darshan-trivedi-10/Image/blob/main/node-img/Screenshot_20221125_102547.png)
+
 
 REST  :-  Representational state Transfer
 -	Rest API are totally relay on the real life entity.
 -	Real Life entity is referred as  Resource.
- 
-           Here in URL we can see the city is mentioned so it shows resource.
+ ![Profile Page](https://github.com/darshan-trivedi-10/Image/blob/main/node-img/Screenshot_20221125_102547.png)
+  Here above images's  URL we can see the city is mentioned it shows resource.
 -	Resources are the most important for REST
