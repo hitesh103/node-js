@@ -23,7 +23,7 @@ API:-
 -	While working with API they have some conventions like.. REST , GRPC, SOAP…
 -	REST is most used convention for API
 
-![Profile Page](https://github.com/darshan-trivedi-10/Image/blob/main/SCProfile.png](https://github.com/darshan-trivedi-10/Image/blob/main/node-img/Screenshot_20221125_102547.png)
+![Profile Page](https://github.com/darshan-trivedi-10/Image/blob/main/node-img/Screenshot_20221125_102547.png)
 
 REST  :-  Representational state Transfer
 -	Rest API are totally relay on the real life entity.
