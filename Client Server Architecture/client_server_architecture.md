@@ -10,6 +10,9 @@ Server :- Server can be hardware or a software
  
 
 As we know how web works?
+
+![Profile Page](https://github.com/darshan-trivedi-10/Image/blob/main/node-img/Screenshot_20221126_010017.png)
+
 -	Client gives http request and fetches the data that it want from the server
 -	Like APIs..
 
@@ -20,6 +23,7 @@ API:-
 -	While working with API they have some conventions like.. REST , GRPC, SOAP…
 -	REST is most used convention for API
 
+![Profile Page]([https://github.com/darshan-trivedi-10/Image/blob/main/SCProfile.png](https://github.com/darshan-trivedi-10/Image/blob/main/node-img/Screenshot_20221125_102547.png))
 
 REST  :-  Representational state Transfer
 -	Rest API are totally relay on the real life entity.
